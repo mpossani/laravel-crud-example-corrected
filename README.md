@@ -2,7 +2,7 @@
 
 ## About this project
 
-This project was quick started from an article from Medium, but some pieces of the published original code was missing, as the router section, and other needed some correctios to become a running example.
+This project was quick started using an article from Medium, but some pieces of the published original code was missing, as the router section, and other needed some correctios to become a running example.
 
 Anyway the article is very useful for whose are studying Laravel and we all are thankful for the author.
 
