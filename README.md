@@ -1,3 +1,5 @@
+## Lavavel CRUD example corrected
+
 ## About this project
 
 This project was quick started from an article from Medium, but some pieces of the published original code was missing, as the router section, and other needed some correctios to become a running example.
